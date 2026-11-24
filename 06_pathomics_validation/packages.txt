@@ -1,0 +1,2 @@
+Python 3.9: numpy, pandas, scipy, scikit-learn, Pillow, scikit-image, pyarrow
+Upstream third-party inference: IGNITE nnU-Net tissue segmentation, QuPath review, CellViT/CellViT++ with SAM backbone and OCELOT taxonomy

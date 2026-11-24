@@ -1,0 +1,2 @@
+R 4.4.1: limma, NMF, clusterProfiler, org.Hs.eg.db, survival, jsonlite
+Python 3.9: numpy, pandas, scikit-learn

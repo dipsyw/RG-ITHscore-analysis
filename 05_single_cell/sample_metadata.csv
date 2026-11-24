@@ -1,0 +1,9 @@
+sample_id,RG_ITH_group,age,sex,pathological_type,TNM_stage
+P001,Low,66,male,LUAD,IIA
+P002,Low,72,male,LUAD,IB
+P003,High,64,male,LUAD,IB
+P004,Low,71,female,LUAD,IB
+P005,Low,54,male,LUSC,IIA
+P006,High,63,female,LUSC,IA3
+P007,High,72,female,LUAD,IIB
+P008,High,59,male,LUAD,IA3

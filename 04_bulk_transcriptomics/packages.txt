@@ -1,0 +1,2 @@
+R 4.4.1: limma, fgsea, GSVA
+External resources/software used upstream: MSigDB 2025.1.Hs GMT files, ESTIMATE, and licensed CIBERSORT with LM22
